@@ -1,0 +1,36 @@
+.sk {
+    position: absolute;
+    top: 40px;
+    left: 185px;
+    width: 60px;
+    height: 32px;
+    line-height: 32px;
+    padding-left: 14px;
+    border-left: 1px solid #b3181c;
+}
+.nav {
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 2px solid #b1191a;
+}
+.sk_list li {
+    float: left;
+    font-size: 16px;
+    font-weight: 700;
+}
+.sk_list li a {
+    color: black;
+    margin: 0 30px;
+}
+.sk_list li a:hover {
+    color: #b1191a;
+}
+.sk_con li {
+    float: left;
+    margin: 0 20px;
+    font-family: 'icomoon';
+}
+.sk_con li a {
+    font-weight: 700;
+    font-size: 14px;
+}
